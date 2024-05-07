@@ -22,17 +22,17 @@ Turtle Graphics Library
 To run the Snake Game on your local machine, follow these steps:
 
 Clone the repository:
-
+```bash
 Copy codegit clone https://github.com/your-username/snake-game.git
-
+````
 Navigate to the project directory:
-
+```bash
 Copy codecd snake-game
-
+````
 Run the main script:
-
+```bash
 Copy codepython main.py
-
+````
 ## Usage
 
 Use the arrow keys (Up, Down, Left, Right) to control the snake's movement.
